@@ -1,0 +1,385 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Capusta.Woo Checkout Gateway\n"
+"POT-Creation-Date: 2020-05-02 12:06+0300\n"
+"PO-Revision-Date: 2020-05-02 12:06+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wc-capusta.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: includes/class-wc-capusta-method.php:74
+#: includes/class-wc-capusta-method.php:517
+msgid "Capusta.Space"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:79
+msgid "Pay online"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:386
+msgid "Main settings"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:388
+msgid ""
+"The payment gateway will not work without these settings. Make the settings "
+"carefully."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:393
+msgid "Online / Offline"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:395
+msgid "Tick the checkbox if you need to activate the payment gateway."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:396
+msgid ""
+"On disconnection, the payment gateway will not be available for selection on "
+"the site. It is useful for payments through subsidiaries, or just in case of "
+"temporary disconnection."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:402
+msgid "Merchant Email"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:404
+msgid "Merchant Email (your login) from Capusta."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:411
+msgid "API Token"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:413
+msgid "Please write API Token. The token is provided by Capusta Support."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:419
+msgid "Project Code"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:421
+msgid ""
+"Please write Code of your project. This code you can get from project "
+"details in Capusta personal account"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:425
+msgid ""
+"Address to notify the site of the results of operations in the background. "
+"Copy the address and enter it in your personal account Capusta in the "
+"technical settings."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:429
+msgid "Callback Url"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:436
+msgid ""
+"The address for the user to go to the site after successful payment. Copy "
+"the address and enter it in your personal account Capusta in the technical "
+"settings."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:440
+msgid "Success Url"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:447
+msgid ""
+"The address for the user to go to the site, after payment with an error. "
+"Copy the address and enter it in your personal account Capusta in the "
+"technical settings."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:451
+msgid "Fail Url"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:473
+msgid "Interface"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:475
+msgid "Customize the appearance. Can leave it at that."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:480
+msgid "Show gateway icon?"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:482
+msgid "Show"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:488
+msgid "Language interface"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:492
+msgid "Russian"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:493
+msgid "English"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:495
+msgid "What language interface displayed for the customer on Capusta?"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:501
+msgid "Language based on the locale?"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:505
+#: includes/class-wc-capusta-method.php:648
+#: includes/class-wc-capusta-method.php:661
+msgid "Yes"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:506
+#: includes/class-wc-capusta-method.php:649
+#: includes/class-wc-capusta-method.php:662
+msgid "No"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:508
+msgid ""
+"Automatic detection of the users language from the WordPress environment."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:514
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:516
+msgid "This is the name that the user sees during the payment."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:522
+msgid "Order button text"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:524
+msgid "This is the button text that the user sees during the payment."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:525
+msgid "Proceed to checkout"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:530
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:532
+msgid ""
+"Description of the method of payment that the customer will see on our "
+"website."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:533
+msgid ""
+"Visa, Mastercard, Maestro, MIR, as well as Apple Pay and Google Pay through "
+"the payment service Capusta.Space"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:551
+msgid "Orders notes"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:553
+msgid "Settings for adding notes to orders. All are off by default."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:558
+msgid "Request from Capusta"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:560
+#: includes/class-wc-capusta-method.php:569
+#: includes/class-wc-capusta-method.php:578
+#: includes/class-wc-capusta-method.php:587
+#: includes/class-wc-capusta-method.php:596
+msgid "Enable"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:561
+msgid "All requests from Capusta for orders will be added to the notes."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:567
+msgid "Validation errors of requests"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:570
+msgid ""
+"Adding to the notes all the data related to the check for error requests."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:576
+msgid "Result requests"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:579
+msgid "Adding payment result data to order notes."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:585
+msgid "Failed requests"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:588
+msgid "Adding customers return data to the cancellation page in the notes."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:594
+msgid "Success requests"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:597
+msgid ""
+"Adding customers return data to the successful payment page in the notes."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:615
+msgid "Technical details"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:617
+msgid ""
+"Setting technical parameters. Used by technical specialists. Can leave it at "
+"that."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:622
+msgid "Logging"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:624
+msgid ""
+"You can enable gateway logging, specify the level of error that you want to "
+"benefit from logging. All sensitive data in the report are deleted. By "
+"default, the error rate should not be less than ERROR."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:628
+msgid "Off"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:642
+msgid "Cart clearing"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:644
+msgid ""
+"Clean the customers cart if payment is successful? If so, the shopping cart "
+"will be cleaned. If not, the goods already purchased will most likely remain "
+"in the shopping cart."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:655
+msgid "Mark order as cancelled?"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:657
+msgid ""
+"Change the status of the order to canceled when the user cancels the "
+"payment. The status changes when the user returns to the cancelled payment "
+"page."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:697
+msgid "Return to payment gateways"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:776
+msgid "The client started to pay."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:901
+msgid "Pay"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:902
+msgid "Cancel & return to cart"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:906
+msgid "Sorry, this order can not be paid"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:989
+msgid "Delivery"
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:1061
+msgid "Order successfully paid."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:1078
+msgid "Client return to success page."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:1104
+msgid "The order has not been paid."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:1121
+msgid "Api request error. Action not found."
+msgstr ""
+
+#: includes/class-wc-capusta-method.php:1168
+msgid "Order not found."
+msgstr ""
+
+#: includes/class-wc-capusta.php:435
+msgid "Capusta Space Docs"
+msgstr ""
+
+#: includes/class-wc-capusta.php:450
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wc-capusta.php:590
+msgid "Useful information"
+msgstr ""
+
+#: includes/class-wc-capusta.php:594
+msgid "Official documentation"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Capusta.Woo Checkout Gateway"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This Capusta.Space plugin allows you to collect donations on Wordpress sites "
+"and accept online payments with Visa, Mastercard, Maestro, MIR bank cards "
+"for orders in projects created through Woocommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Capusta"
+msgstr ""

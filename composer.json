@@ -1,0 +1,15 @@
+{
+  "name": "capusta/woocommerce",
+  "description": "Capusta Woocommerce plugin",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Capusta.Space Developers",
+      "email": "support@capusta.space"
+    }
+  ],
+  "require": {
+    "capusta/php-sdk": "v1.14.0.x-dev"
+  }
+}
